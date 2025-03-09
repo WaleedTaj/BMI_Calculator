@@ -14,7 +14,9 @@ A **Flutter-based BMI Calculator** that helps users calculate their **Body Mass 
 - **Result Screen**: Displays BMI category (**Underweight, Normal, Overweight**), exact BMI value (**kg/m²**), a brief health description, and a **Recalculate** button.  
 
 ## **📸 Screenshots**  
-*(Add screenshots here for a better visual presentation.)*  
+
+<img src="https://github.com/WaleedTaj/BMI_Calculator/blob/master/images/Screenshot%201.jpeg" width="200" style="margin-right: 20px;"/> <img src="https://github.com/WaleedTaj/BMI_Calculator/blob/master/images/Screenshot%202.jpeg" width="200"/> <img src="https://github.com/WaleedTaj/BMI_Calculator/blob/master/images/Screenshot%203.jpeg" width="200"/> <img src="https://github.com/WaleedTaj/BMI_Calculator/blob/master/images/Screenshot%204.jpeg" width="200"/>
+
 
 ## **🚀 Getting Started**  
 
