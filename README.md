@@ -1,16 +1,38 @@
-# bmi_calculator
+# **BMI Calculator**  
 
-A new Flutter project.
+## **Overview**  
+A **Flutter-based BMI Calculator** that helps users calculate their **Body Mass Index (BMI)** based on height, weight, and age. The app features an intuitive UI with gender selection, interactive sliders, and real-time results to provide users with insights into their health status.  
 
-## Getting Started
+## **📱 Features**  
 
-This project is a starting point for a Flutter application.
+- **Splash Screen**: Engaging startup screen for a smooth user experience.  
+- **Gender Selection**: Choose between Male and Female before calculation.  
+- **Height Selector**: Adjustable **slider** to set height dynamically.  
+- **Weight & Age Adjustment**: Increment and decrement buttons (`+` & `-`) for easy input.  
+- **BMI Calculation**: Computes BMI instantly when the **Calculate** button is pressed.  
+- **Input Validation**: Shows a **Snackbar** if gender is not selected before calculation.  
+- **Result Screen**: Displays BMI category (**Underweight, Normal, Overweight**), exact BMI value (**kg/m²**), a brief health description, and a **Recalculate** button.  
 
-A few resources to get you started if this is your first Flutter project:
+## **📸 Screenshots**  
+*(Add screenshots here for a better visual presentation.)*  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## **🚀 Getting Started**  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Clone the Repository**:  
+   ```bash
+   git clone https://github.com/WaleedTaj/BMI_Calculator.git
+   ```
+2. **Install Dependencies**:
+   ```bash
+   flutter pub get
+   ```
+3. **Run the App**:
+   ```bash
+   flutter run
+   
+## 🛠️ Built With
+
+- **Flutter**: UI toolkit for building natively compiled applications.
+- **Dart**: Programming language optimized for building mobile apps.
+
+---
